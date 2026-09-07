@@ -1,55 +1,43 @@
-# shizagull.tech
-# Shiza Gull — DevOps Engineer
+# Shiza Gull 👋
 
 ### DevOps Engineer | Cloud & Infrastructure | Automation
 
-Welcome to my **DevOps portfolio** repository. 🚀
+I'm a **DevOps Engineer with 1+ year of experience** in DevOps practices, Linux system administration, cloud infrastructure, automation, containerization, CI/CD, monitoring, and system security.
 
-This repository contains my personal portfolio showcasing my experience, technical skills, DevOps projects, and work with cloud infrastructure, Linux, automation, containers, and CI/CD.
+I have hands-on experience with **AWS, Linux, Ansible, Docker, Kubernetes, Jenkins, Git, and infrastructure monitoring tools**, with a focus on building reliable, secure, and efficient systems.
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-* ☁️ AWS
-* 🐧 Linux — Ubuntu, CentOS, RHEL
-* 🐳 Docker
-* ☸️ Kubernetes
-* ⚙️ Ansible / AWX
-* 🔄 Jenkins
-* 🌐 Nginx / Apache / Tomcat
-* 📊 Nagios / Zabbix / AWS CloudWatch
-* 💻 Bash / Python
-* 🔧 Git / GitHub
-* 🔐 Networking & Infrastructure Security
-* 🖥️ VMware / KVM
-* 💾 MySQL
+**Cloud:** AWS, EC2, Auto Scaling, CloudWatch
+**Linux:** Ubuntu, CentOS, RHEL
+**DevOps:** Ansible, AWX, Jenkins, Docker, Kubernetes
+**Scripting:** Bash, Python
+**Servers:** Nginx, Apache, Tomcat
+**Monitoring:** Nagios, Zabbix, CloudWatch
+**Networking & Security:** DNS, DHCP, VPN, SSH, SSL/TLS, Firewalls
+**Virtualization:** VMware, KVM
+**Database:** MySQL
+**Version Control:** Git, GitHub
 
-## 🚀 Portfolio
+## 💼 Experience
 
-Visit my portfolio website:
+**DevOps Engineer — Al-Nafi Cloud**
+*January – Present | Remote*
 
-**[🌐 View My DevOps Portfolio](https://shiza-gull.github.io)**
+Working with Linux systems, AWS infrastructure, Ansible automation, Docker, Kubernetes, Jenkins CI/CD, web servers, monitoring, networking, and infrastructure security.
 
-## 📂 What's Inside
+## 🎓 Education
 
-* 👩‍💻 About Me
-* 🛠️ Technical Skills
-* 💼 Professional Experience
-* 🚀 DevOps Projects
-* ☁️ Cloud & Infrastructure Work
-* 🎓 Education
-* 📚 Areas of Interest
-* 🌱 Current Learning
+**BS Computer Science** — Virtual University
+*2022 – Present*
+
+**EduQual Level 3 Diploma — Cloud Cyber Security**
+Al-Nafi International College · *2022 – 2023*
 
 ## 📫 Connect With Me
 
-**GitHub:**
-https://github.com/shiza-gull
-
-**LinkedIn:**
-https://www.linkedin.com/in/shiza-gull/
+💻 [GitHub](https://github.com/shiza-gull) · 💼 [LinkedIn](https://www.linkedin.com/in/shiza-gull/)
 
 ---
 
-### ⚡ Automate • Deploy • Monitor • Secure • Improve
-
-*Building reliable and scalable infrastructure through automation and continuous improvement.*
+**Automate • Deploy • Monitor • Secure • Improve 🚀**
